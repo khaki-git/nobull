@@ -1,0 +1,39 @@
+/**
+ * @name nobull
+ * @description Removes (paid) distractions from view.
+ * @author khakixd
+ * @version 1.0.0
+ * @website https://www.notkhaki.xyz/
+*/
+
+.container__4bbc6 {
+	display: none;
+}
+
+.avatarDecoration__44b0c {
+	display: none;
+}
+
+.clanTag__5d473 {
+	display: none;
+}
+
+.clanTagChiplet_c19a55 {
+	display: none;
+}
+
+.chipletContainerInline__10651 {
+	display: none;
+}
+
+.premiumIcon__5d473 {
+	display: none;
+}
+
+.truncated_c9d15c {
+	display: none;
+}
+
+div:has(> .burstGlow__23977) {
+  display: none;
+}
